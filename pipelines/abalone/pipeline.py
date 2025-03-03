@@ -7,6 +7,8 @@
                                                . -(stop)
 
 Implements a get_pipeline(**kwargs) method.
+
+test trigger cicd
 """
 import os
 
